@@ -1,0 +1,23 @@
+{
+  "name": "r2r",
+  "version": "1.0.0",
+  "description": "Reel to Reel, Forms Audio Server",
+  "main": "r2r.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formsaudio/r2r.git"
+  },
+  "author": "birm",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/formsaudio/r2r/issues"
+  },
+  "homepage": "https://github.com/formsaudio/r2r#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1"
+  }
+}
