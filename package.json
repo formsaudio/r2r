@@ -18,6 +18,9 @@
   "homepage": "https://github.com/formsaudio/r2r#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "mongodb": "^3.0.1"
+    "helmet": "^3.9.0",
+    "mongodb": "^3.0.1",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1"
   }
 }
